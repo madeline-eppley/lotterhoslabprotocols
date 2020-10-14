@@ -20,7 +20,13 @@ When you log in, our freezers are labeled 120 (the -80C in Edwards) and 121 (the
 
 Click on "Manage Alarm"
 
-Disable the alarm for an hour or so (there is a max that is allowable, but not sure what it is). If you plan to defrost the freezer, we need to contact Dennis Todd to request a 24hr+ freezer alarm shutoff.
+Disable the alarm for an hour or so (there is a max that is allowable, but not sure what it is). 
+
+Please be careful not to let the temperature drop while you are loading samples. If the temperature reaches -65C, wait until it gets back up to -75C before you load more samples. It puts a lot of stress on the freezer.
+
+## If you plan to defrost the freezer
+
+we need to contact Dennis Todd to request a 24hr+ freezer alarm shutoff.
 
 ![](img/freezerimage.png)
 
