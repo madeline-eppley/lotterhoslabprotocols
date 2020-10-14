@@ -8,17 +8,17 @@ http://NOR926.ReesCloud.net
 
 Your logins are first initial, last name/names. All lowercase with no spaces or extra characters, just letters. 
 
-![phone alarm handling instructions](PhoneAlarmHandlingInstructionsCentronNUcontactDennisTodd.pdf)
+[phone alarm handling instructions](img/PhoneAlarmHandlingInstructionsCentronNUcontactDennisTodd.pdf)
 
 Your pin codes to acknowledge alarms received on your phone is described below.
 
 When you log in, our freezers are labeled 120 (the -80C in Edwards) and 121 (the -20C in Edwards)
 
-![](freezerimage.png)
+![](img/freezerimage.png)
 
 The alarm will go off when the freezer falls below -70C
 
-![](freezerinhibit.png)
+![](img/freezerinhibit.png)
 
 ## If you plan on loading samples in the freezer
 
